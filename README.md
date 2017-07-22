@@ -45,6 +45,7 @@
 ## Gerneral
 - [Ethereum is the Forefront of Digital Currency](https://blog.coinbase.com/ethereum-is-the-forefront-of-digital-currency-5300298f6c75)
 - [EthOn - An Ethereum Ontology](https://github.com/ConsenSys/EthOn)
+- [Awesome Cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency)
 
 ## Ethereum Organization
 - [What happens when the Ethereum Organization runs out of money?](https://www.reddit.com/r/ethereum/comments/3xvn9r/what_happens_when_the_ethereum_foundation_runs/)
@@ -72,6 +73,7 @@
 - [Ethereum Gas Fuel and Fees](https://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc)
 
 ## PoS
+- [Proof od Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
 - [What is Casper?](https://themerkle.com/what-is-casper/)
 - [How does the Casper proof of stake algorithm work?](https://ethereum.stackexchange.com/questions/102/how-does-the-casper-proof-of-stake-algorithm-work)
 - [Fundamental problems with Casper](https://www.reddit.com/r/ethereum/comments/4euiut/fundamental_problems_with_casper/)
