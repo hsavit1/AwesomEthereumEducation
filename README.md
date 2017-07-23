@@ -28,6 +28,7 @@
 - [Applications](#applications)
 - [Government](#government)
 - [Cryptoeconomics](#cryptoeconomics)
+- [Trading](#trading)
 - [Tutorial](#tutorial)
 
 ## Official
@@ -46,6 +47,7 @@
 - [Ethereum is the Forefront of Digital Currency](https://blog.coinbase.com/ethereum-is-the-forefront-of-digital-currency-5300298f6c75)
 - [EthOn - An Ethereum Ontology](https://github.com/ConsenSys/EthOn)
 - [Awesome Cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency)
+- [Ethereum: Bitcoin Plus Everything](https://medium.com/@ConsenSys/ethereum-bitcoin-plus-everything-a506dc780106)
 
 ## Ethereum Organization
 - [What happens when the Ethereum Organization runs out of money?](https://www.reddit.com/r/ethereum/comments/3xvn9r/what_happens_when_the_ethereum_foundation_runs/)
@@ -66,6 +68,7 @@
 ## Contracts
 - [What is a smart contract?](https://medium.com/@heckerhut/whats-a-smart-contract-in-search-of-a-consensus-c268c830a8ad)
 - [Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
+- [Awesome Smart Contracts](https://github.com/ivy/awesome-smart-contracts)
 
 ## Gas
 - [What is Gas?](https://myetherwallet.groovehq.com/knowledge_base/topics/what-is-gas)
@@ -88,7 +91,9 @@
 
 ## Solidity
 - [Solidity Docs](https://solidity.readthedocs.io/en/latest/index.html)
+- [Learn X in Y Minutes: Solidity](https://learnxinyminutes.com/docs/solidity/)
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
+- [Web Editor for Solidity](https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.13+commit.fb4cb1a.js)
 - [Solidity Workshop](https://github.com/androlo/solidity-workshop)
 - [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4) 
 - [7 Part Solidity Tutorial Series](https://monax.io/docs/solidity/solidity_1_the_five_types_model/)
@@ -126,6 +131,10 @@
 - [The psychology behind ICO funding](https://medium.com/iconominet/the-psychology-behind-ico-funding-81787ecd9b42)
 - [Reddit Discussion](https://www.reddit.com/r/ethereum/comments/5hv1jk/the_psychology_behind_ico_funding_post_3_of_4_of/)
 - [On Bitcoin Maximalism](https://blog.ethereum.org/2014/11/20/bitcoin-maximalism-currency-platform-network-effects/)
+- [Ethereum and the ICO: Fundraising Gets Wild](https://medium.com/@BlockMason/ethereum-and-the-ico-fundraising-gets-wild-96eefd9f5429)
+- [A safe token sale mechanism](https://medium.com/@Vlad_Zamfir/a-safe-token-sale-mechanism-8d73c430ddd1)
+- [ICO Calendar](https://tokenmarket.net/ico-calendar)
+- [ICO Rating](http://icorating.com/)
 
 ## Tokens
 - [Value of the Token Model](https://medium.com/@FEhrsam/value-of-the-token-model-6c65f09bcba8)
@@ -145,6 +154,9 @@
 
 ## Cryptoeconomics
 - [How society will be transformed by cryptoeconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
+
+## Trading
+- [Some basics on trading Crypto](https://medium.com/@PoloniexWolf/some-basics-on-trading-crypto-fb74572ca9de)
 
 ## Tutorial 
 - [Crowdsale Tutorial](https://www.ethereum.org/crowdsale)
